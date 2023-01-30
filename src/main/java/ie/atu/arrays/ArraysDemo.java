@@ -1,5 +1,7 @@
 package ie.atu.arrays;
 
+import java.util.Scanner;
+
 public class ArraysDemo {
 
     public static void main(String[] args) {
@@ -18,6 +20,7 @@ public class ArraysDemo {
         anArray[7] = 800;
         anArray[8] = 900;
         anArray[9] = 1000;
+        anArray[10] = 1100;
 
         System.out.println("Element at index 0: " + anArray[0]);
         System.out.println("Element at index 1: " + anArray[1]);
@@ -25,7 +28,7 @@ public class ArraysDemo {
         System.out.println("Element at index 3: " + anArray[3]);
         System.out.println("Element at index 4: " + anArray[4]);
         System.out.println("Element at index 5: " + anArray[5]);
-        System.out.println("Elemen at index 6: " + anArray[6]);
+        System.out.println("Element at index 6: " + anArray[6]);
         System.out.println("Element at index 7: " + anArray[7]);
         System.out.println("Element at index 8: " + anArray[8]);
         System.out.println("Element at index 9: " + anArray[9]);
