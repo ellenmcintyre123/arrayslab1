@@ -20,6 +20,8 @@ public class ArraysDemo {
         anArray[7] = 800;
         anArray[8] = 900;
         anArray[9] = 1000;
+        anArray[10] = 1100;
+
 
         int indexValue = 0;
 
@@ -38,5 +40,6 @@ public class ArraysDemo {
          {
              System.out.println("went outside memory block");
          }
+
     }
 }
